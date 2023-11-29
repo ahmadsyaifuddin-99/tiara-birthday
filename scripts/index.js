@@ -4,7 +4,7 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'Dec 5, 2023',
+  birthdate: 'Nov 29, 2023',
   name: 'Tiara Desmitha Oliviany'
 };
 
